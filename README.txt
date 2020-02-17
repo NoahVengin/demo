@@ -3,7 +3,6 @@
 This is a readme file 
 This is how you do stuff
 
-Something new
-causing trouble
+blah
 
 #Comment
